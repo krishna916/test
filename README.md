@@ -123,7 +123,7 @@
 |  500-001 | Internal server error. | 2005 |
 |  500-002 | Internal server error. | 2005 |
 |  500-003 | Internal server error. | 2005 |
-|  1004-011:1004-045 | Internal system error. | 2005 |
+|  1004-011\:1004-045 | Internal system error. | 2005 |
 |  1004-046 | Account is not eligible for this user. | 2020 |
 |  1004-048:1004-052 | Internal system error. | 2005 |
 
