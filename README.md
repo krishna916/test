@@ -14,7 +14,7 @@
 
 
 
-|  Error Code | Description | error mapping |
+|  Error Code | **Description** | error mapping |
 | :---: | :---: | :---: |
 |  400-001 | JSON structure is invalid. | 2001 |
 |  400-002 | There is a problem with the request. | 2001 |
